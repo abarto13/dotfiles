@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bartolini.adrien@yahoo.fr
+	name = Adrien
